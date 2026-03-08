@@ -1,4 +1,21 @@
-Hi i am Pragati Bankar.
-I am creating on my sql dataset healthcare facility
-Creating 2 tables this tables inserts some values
-aftor creating constructor  this tables adds on aggreaton function, join function,datatime function,etc.
+# Healthcare Facility SQL Database
+
+## Project Overview
+This project creates a SQL database for managing healthcare facility records including patients and medical treatments.
+
+## Tables
+Patients
+Medical_Records
+
+## Features
+- Patient information storage
+- Medical treatment tracking
+- Doctor visit records
+- Diagnosis analysis
+
+## Tools Used
+- MySQL
+- Database Design
+
+## Example Analysis
+Count patients diagnosed with specific diseases such as asthma.
