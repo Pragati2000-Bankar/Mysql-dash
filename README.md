@@ -1,11 +1,11 @@
 # Healthcare Facility SQL Database
 
 ## Project Overview
-This project creates a SQL database for managing healthcare facility records including patients and medical treatments.
+- This project creates a SQL database for managing healthcare facility records including patients and medical treatments.
 
 ## Tables
-Patients
-Medical_Records
+- Patients
+- Medical_Records
 
 ## Features
 - Patient information storage
@@ -18,4 +18,4 @@ Medical_Records
 - Database Design
 
 ## Example Analysis
-Count patients diagnosed with specific diseases such as asthma.
+- Count patients diagnosed with specific diseases such as asthma.
